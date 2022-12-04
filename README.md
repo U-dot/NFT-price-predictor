@@ -17,7 +17,7 @@ Alternativamente, las siguientes instrucciones permiten correr localmente el cua
 ### Prerequisites
 
 Requerimientos para el software y otras herramientas
-- [install juyter](https://jupyter.org/install)
+- [install jupyter](https://jupyter.org/install)
 - install requirements
 
 ### Installing
